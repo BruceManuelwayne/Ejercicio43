@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\bin\Debug\Ejercicio43.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\bin\Debug\Ejercicio43.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\bin\Debug\Ejercicio43.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\obj\Debug\Ejercicio43.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\obj\Debug\Ejercicio43.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\obj\Debug\Ejercicio43.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\Ejercicio43\Ejercicio43\Ejercicio43\obj\Debug\Ejercicio43.pdb
